@@ -11,7 +11,7 @@
   
   <br>
   <h1>
-     <img src='.assets/image/Animation.gif'>
+     <img src='./assets/images/Animation.gif'>
   </h1>
   
 
